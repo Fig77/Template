@@ -23,7 +23,7 @@ Index
       - [Live](#live)
    * [Testing](#testing)
    * [Credits](#credits)
-   * [Contributing](#contribiuting)
+   * [Contributing](#contributing)
 
 ## Installation
 
