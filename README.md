@@ -10,7 +10,7 @@ Index
       - [Live](#live)
    * [Testing](#testing)
    * [Credits](#credits)
-   * [Contribiuting](#contribiuting)
+   * [Contributing](#contribiuting)
 
 ## Installation
 
