@@ -13,7 +13,7 @@
 
 # Foobar
 
-Foobar is a Python library for dealing with word pluralization.
+Foobar is a Ruby project that will do wonders with foo. Like foo this, or foo that. But never those.
 
 Index
 =====
@@ -27,20 +27,19 @@ Index
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Clone the project, and install the gems with bundler.
 
 ```bash
-pip install foobar
+git clone this link
+bundle install
+run this or that
 ```
 
 ## Usage
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```bash
+cd foo/
+ruby bar.rb
 ```
 
 ## Screenshots
