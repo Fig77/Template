@@ -2,7 +2,7 @@
 [![Issues][issues-shield]][issues-url]
 <br />
 <p align="center">
-  <img src="assets/menu.png" alt="menu" width="718" height="394">
+  <img src="assets/menu.png" alt="Here you can put a header picture" width="718" height="394">
   <h2 align="center"> Foobar </h2>
   <p align="center">
   	Foo for foobing (Ruby ♦️)
