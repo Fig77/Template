@@ -12,12 +12,14 @@
 </p>
 
 # Foobar
-
+<!--THIS SHOULD BE ABOUT BRO, SMALL ABOUT HERE-->
 Foobar is a Ruby project that will do wonders with foo. Like foo this, or foo that. But never those.
 
 Index
 =====
+   * [Built with]
    * [Installation](#installation)
+   * [Prequisites]
    * [Usage](#usage)
       - [Screenshots](#screenshots)
       - [Live](#live)
